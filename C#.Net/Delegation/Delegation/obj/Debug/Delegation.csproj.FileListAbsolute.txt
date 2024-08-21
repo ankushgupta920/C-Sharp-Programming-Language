@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\bin\Debug\Delegation.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\bin\Debug\Delegation.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\bin\Debug\Delegation.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\obj\Debug\Delegation.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Delegation\Delegation\obj\Debug\Delegation.pdb

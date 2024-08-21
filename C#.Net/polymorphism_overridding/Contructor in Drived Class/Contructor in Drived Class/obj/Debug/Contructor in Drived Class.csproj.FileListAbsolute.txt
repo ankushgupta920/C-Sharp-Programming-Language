@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\bin\Debug\Contructor in Drived Class.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\bin\Debug\Contructor in Drived Class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\bin\Debug\Contructor in Drived Class.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\obj\Debug\Contructor in Drived Class.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\obj\Debug\Contructor in Drived Class.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\obj\Debug\Contructor in Drived Class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\polymorphism_overridding\Contructor in Drived Class\Contructor in Drived Class\obj\Debug\Contructor in Drived Class.pdb

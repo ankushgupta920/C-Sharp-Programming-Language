@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\polymorphism_overridding\\contructor in drived class\\contructor in drived class\\sample3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|solutionrelative:contructor in drived class\\sample3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\polymorphism_overridding\\contructor in drived class\\contructor in drived class\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|solutionrelative:contructor in drived class\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\polymorphism_overridding\\contructor in drived class\\contructor in drived class\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|solutionrelative:contructor in drived class\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\polymorphism_overridding\\contructor in drived class\\contructor in drived class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C3148-BC1F-49C3-8C8E-978F2B469580}|Contructor in Drived Class\\Contructor in Drived Class.csproj|solutionrelative:contructor in drived class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sample3.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Sample3.cs",
+              "RelativeDocumentMoniker": "Contructor in Drived Class\\Sample3.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Sample3.cs",
+              "RelativeToolTip": "Contructor in Drived Class\\Sample3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:16:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample2.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Sample2.cs",
+              "RelativeDocumentMoniker": "Contructor in Drived Class\\Sample2.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Sample2.cs",
+              "RelativeToolTip": "Contructor in Drived Class\\Sample2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:04:55.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sample.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\sample.cs",
+              "RelativeDocumentMoniker": "Contructor in Drived Class\\sample.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\sample.cs",
+              "RelativeToolTip": "Contructor in Drived Class\\sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:00:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Program.cs",
+              "RelativeDocumentMoniker": "Contructor in Drived Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\polymorphism_overridding\\Contructor in Drived Class\\Contructor in Drived Class\\Program.cs",
+              "RelativeToolTip": "Contructor in Drived Class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:53:38.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

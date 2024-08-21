@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\bin\Debug\Attributes.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\obj\Debug\Attributes.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Attributes\Attributes\obj\Debug\Attributes.pdb

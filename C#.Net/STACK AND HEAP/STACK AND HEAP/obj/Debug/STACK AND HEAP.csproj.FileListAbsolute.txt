@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\bin\Debug\STACK AND HEAP.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\bin\Debug\STACK AND HEAP.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\bin\Debug\STACK AND HEAP.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\obj\Debug\STACK AND HEAP.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\obj\Debug\STACK AND HEAP.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\obj\Debug\STACK AND HEAP.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\STACK AND HEAP\STACK AND HEAP\obj\Debug\STACK AND HEAP.pdb

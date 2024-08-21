@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\inheritence\\inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\inheritence\\scical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\scical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\inheritence\\advcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\advcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\inheritence\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179EA83E-AB86-4237-9F98-18C752818A4D}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SciCal.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\SciCal.cs",
+              "RelativeDocumentMoniker": "Inheritence\\SciCal.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\SciCal.cs",
+              "RelativeToolTip": "Inheritence\\SciCal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:33:23.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvCal.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\AdvCal.cs",
+              "RelativeDocumentMoniker": "Inheritence\\AdvCal.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\AdvCal.cs",
+              "RelativeToolTip": "Inheritence\\AdvCal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:27:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\Cal.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Cal.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\Cal.cs",
+              "RelativeToolTip": "Inheritence\\Cal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:24:18.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeToolTip": "Inheritence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:22:51.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

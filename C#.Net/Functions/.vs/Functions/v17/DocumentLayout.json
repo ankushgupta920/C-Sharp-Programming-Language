@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285A28C4-EDFE-4884-AFBF-5E4544DA56E8}|Functions\\Functions.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285A28C4-EDFE-4884-AFBF-5E4544DA56E8}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Functions\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Functions\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:23:10.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

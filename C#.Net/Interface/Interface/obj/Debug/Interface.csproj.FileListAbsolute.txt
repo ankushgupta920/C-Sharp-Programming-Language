@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Interface\obj\Debug\Interface.pdb

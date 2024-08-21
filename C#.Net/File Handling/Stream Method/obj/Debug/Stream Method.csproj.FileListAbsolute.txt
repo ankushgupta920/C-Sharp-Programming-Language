@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\bin\Debug\Stream Method.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\bin\Debug\Stream Method.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\bin\Debug\Stream Method.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\obj\Debug\Stream Method.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\obj\Debug\Stream Method.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\obj\Debug\Stream Method.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Stream Method\obj\Debug\Stream Method.pdb

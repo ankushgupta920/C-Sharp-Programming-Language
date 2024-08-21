@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\EVENODD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:even_odd\\EVENODD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:even_odd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FC0AE-EA79-4FF1-AECB-A2B9CDEFEF08}|Encapsulation\\Encapsulation.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\encapsulation\\encapsulation\\enployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95FC0AE-EA79-4FF1-AECB-A2B9CDEFEF08}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\enployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FC0AE-EA79-4FF1-AECB-A2B9CDEFEF08}|Encapsulation\\Encapsulation.csproj|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95FC0AE-EA79-4FF1-AECB-A2B9CDEFEF08}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:string_example\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:string_example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Data.cs",
+              "RelativeDocumentMoniker": "string_example\\Data.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Data.cs",
+              "RelativeToolTip": "string_example\\Data.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:08:34.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Program.cs",
+              "RelativeDocumentMoniker": "string_example\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\string_example\\Program.cs",
+              "RelativeToolTip": "string_example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:07:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EVENODD.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\EVENODD.cs",
+              "RelativeDocumentMoniker": "even_odd\\EVENODD.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\EVENODD.cs",
+              "RelativeToolTip": "even_odd\\EVENODD.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:46:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\Program.cs",
+              "RelativeDocumentMoniker": "even_odd\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\even_odd\\Program.cs",
+              "RelativeToolTip": "even_odd\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:43:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\Encapsulation\\Enployee.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Enployee.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\Encapsulation\\Enployee.cs",
+              "RelativeToolTip": "Encapsulation\\Enployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:08:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:07:18.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\bin\Debug\Execution_Time.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\bin\Debug\Execution_Time.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\bin\Debug\Execution_Time.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\obj\Debug\Execution_Time.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\obj\Debug\Execution_Time.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\obj\Debug\Execution_Time.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Execution_Time\obj\Debug\Execution_Time.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Functions\Functions\obj\Debug\Functions.pdb

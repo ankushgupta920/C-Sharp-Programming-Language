@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\obj\Debug\Constractor.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\obj\Debug\Constractor.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\bin\Debug\Constractor.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\bin\Debug\Constractor.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\bin\Debug\Constractor.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\obj\Debug\Constractor.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Constractor\Constractor\obj\Debug\Constractor.pdb

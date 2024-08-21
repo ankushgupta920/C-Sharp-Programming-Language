@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

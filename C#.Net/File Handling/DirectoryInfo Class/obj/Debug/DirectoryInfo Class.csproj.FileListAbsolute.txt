@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\bin\Debug\DirectoryInfo Class.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\DirectoryInfo Class\obj\Debug\DirectoryInfo Class.pdb

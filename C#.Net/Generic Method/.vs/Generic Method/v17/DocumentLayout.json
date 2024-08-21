@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73724210-AFA1-475F-BF98-188AF2878232}|HashTable\\HashTable.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\generic method\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724210-AFA1-475F-BF98-188AF2878232}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943641E7-53B4-450E-BB53-47838AA97AB8}|Array List\\Array List.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\generic method\\array list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943641E7-53B4-450E-BB53-47838AA97AB8}|Array List\\Array List.csproj|solutionrelative:array list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434199BB-E1B1-497A-AB11-FA691B10E06F}|Generic Method\\Generic Method.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\generic method\\generic method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434199BB-E1B1-497A-AB11-FA691B10E06F}|Generic Method\\Generic Method.csproj|solutionrelative:generic method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0197EFC1-75D1-45D9-B744-61951B47E506}|Generic class\\Generic class.csproj|c:\\users\\ankush gupta\\onedrive\\desktop\\c#.net\\generic method\\generic class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0197EFC1-75D1-45D9-B744-61951B47E506}|Generic class\\Generic class.csproj|solutionrelative:generic class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\HashTable\\Program.cs",
+              "RelativeToolTip": "HashTable\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:52:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Array List\\Program.cs",
+              "RelativeDocumentMoniker": "Array List\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Array List\\Program.cs",
+              "RelativeToolTip": "Array List\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:26:15.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Generic class\\Program.cs",
+              "RelativeDocumentMoniker": "Generic class\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Generic class\\Program.cs",
+              "RelativeToolTip": "Generic class\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:40:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Generic Method\\Program.cs",
+              "RelativeDocumentMoniker": "Generic Method\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankush Gupta\\OneDrive\\Desktop\\C#.Net\\Generic Method\\Generic Method\\Program.cs",
+              "RelativeToolTip": "Generic Method\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:56:02.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

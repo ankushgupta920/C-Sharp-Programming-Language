@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\bin\Debug\custom_exception.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\bin\Debug\custom_exception.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\bin\Debug\custom_exception.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\obj\Debug\custom_exception.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\obj\Debug\custom_exception.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\obj\Debug\custom_exception.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Error Handling\custom_exception\obj\Debug\custom_exception.pdb

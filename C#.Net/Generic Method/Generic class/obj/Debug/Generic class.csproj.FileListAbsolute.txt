@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\bin\Debug\Generic class.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\bin\Debug\Generic class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\bin\Debug\Generic class.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\obj\Debug\Generic class.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\obj\Debug\Generic class.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\obj\Debug\Generic class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Generic Method\Generic class\obj\Debug\Generic class.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\bin\Debug\Start_Application.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\bin\Debug\Start_Application.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\bin\Debug\Start_Application.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\obj\Debug\Start_Application.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\obj\Debug\Start_Application.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\obj\Debug\Start_Application.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\File Handling\Start_Application\obj\Debug\Start_Application.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Inheritence\Inheritence\obj\Debug\Inheritence.pdb

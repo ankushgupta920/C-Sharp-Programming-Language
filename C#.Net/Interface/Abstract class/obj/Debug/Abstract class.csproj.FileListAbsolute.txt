@@ -1,0 +1,7 @@
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\bin\Debug\Abstract class.exe.config
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\bin\Debug\Abstract class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\bin\Debug\Abstract class.pdb
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\obj\Debug\Abstract class.csproj.AssemblyReference.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\obj\Debug\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\obj\Debug\Abstract class.exe
+C:\Users\Ankush Gupta\OneDrive\Desktop\C#.Net\Interface\Abstract class\obj\Debug\Abstract class.pdb
